@@ -1,0 +1,8 @@
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\bin\Debug\RefactorMumblingTests.dll
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\bin\Debug\RefactorMumblingTests.pdb
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\bin\Debug\RefactorMumbling.exe
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\bin\Debug\RefactorMumbling.pdb
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\obj\Debug\RefactorMumblingTests.csprojResolveAssemblyReference.cache
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\obj\Debug\RefactorMumblingTests.dll
+D:\Development\GitProjects\Mumbling\RefactorMumblingTests\obj\Debug\RefactorMumblingTests.pdb

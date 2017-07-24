@@ -1,0 +1,6 @@
+D:\Development\GitProjects\Mumbling\RefactorMumbling\bin\Debug\RefactorMumbling.exe.config
+D:\Development\GitProjects\Mumbling\RefactorMumbling\bin\Debug\RefactorMumbling.exe
+D:\Development\GitProjects\Mumbling\RefactorMumbling\bin\Debug\RefactorMumbling.pdb
+D:\Development\GitProjects\Mumbling\RefactorMumbling\obj\Debug\RefactorMumbling.csprojResolveAssemblyReference.cache
+D:\Development\GitProjects\Mumbling\RefactorMumbling\obj\Debug\RefactorMumbling.exe
+D:\Development\GitProjects\Mumbling\RefactorMumbling\obj\Debug\RefactorMumbling.pdb
