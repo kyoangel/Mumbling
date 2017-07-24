@@ -21,7 +21,7 @@ namespace RefactorMumbling
             {
                 upper = s[i].ToString().ToUpper();
                 var lower = "";
-                lower = GetLowerChars(s, i, lower);
+                lower = GetLowerChars(s[i], i);
                 result += upper + lower + "-";
 
             }
@@ -29,14 +29,9 @@ namespace RefactorMumbling
             return result.TrimEnd('-');
         }
 
-        private static string GetLowerChars(string currentChar, int times, string lower)
+        private static string GetLowerChars(char currentChar, int times)
         {
-            for (int j = 0; j < times; j++)
-            {
-                lower += currentChar[times].ToString().ToLower();
-            }
-
-            return lower;
+            return new string(char.ToLower(currentChar), times);
         }
     }
 }
