@@ -20,9 +20,7 @@ namespace RefactorMumbling
             for (int i = 0; i < s.Length; i++)
             {
                 upper = s[i].ToString().ToUpper();
-                var lower = "";
-                lower = GetLowerChars(s[i], i);
-                result += upper + lower + "-";
+                result += upper + GetLowerChars(s[i], i) + "-";
 
             }
 
